@@ -1,7 +1,7 @@
 # ADBStyle
 A Node.js module for streamlined Android device management and debugging using ADB commands.
 
-# Attention
+# Notice
 Currently at version 0.1. This is a work in progress, and updates will continue to be made.
 
 # Usage
